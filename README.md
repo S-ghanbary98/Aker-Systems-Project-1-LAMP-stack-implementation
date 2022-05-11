@@ -2,4 +2,4 @@
 
 ## Intro
 
-This is a lamp stack project
+This is a lamp stack project, in this project
