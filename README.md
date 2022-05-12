@@ -45,7 +45,7 @@ the following file was populated with the code below.
 
 - Finally I created and populated an index.html file in the new project directory to be served to the front-end. `sudo echo 'Hello LAMP from hostname' $(curl -s http://169.254.169.254/latest/meta-data/public-hostname) 'with public IP' $(curl -s http://169.254.169.254/latest/meta-data/public-ipv4) > /var/www/projectlamp/index.html`
 
-''' 
+```
 # Configuration file
 
 <VirtualHost *:80>
@@ -57,8 +57,7 @@ the following file was populated with the code below.
     CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
 
-''''
-ß
+```
 
 ![alt text](images/virtual%20host.png)
 
@@ -75,11 +74,12 @@ the following file was populated with the code below.
 
 
 
-'''
+```
+
 <?php
 phpinfo();
 
-'''
+```
 
 - The final result is the website below with all the information about the server.
 
