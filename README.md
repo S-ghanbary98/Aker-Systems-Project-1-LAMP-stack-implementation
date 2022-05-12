@@ -2,7 +2,7 @@
 
 ## Intro
 
-In this project, I will employ a LAMP (Linux, Apache, MySQL, PHP) stack project in an amazon EC2 instance. Here are the steps I took to implement this.\
+In this project, I will employ a LAMP (Linux, Apache, MySQL, PHP) stack project in an amazon EC2 instance. Here are the steps I took to implement this.
 
 
 ### Initial Amazon EC2 Spin-Up & Appache Installation.
