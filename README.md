@@ -92,5 +92,4 @@ phpinfo();
 ![alt text](images/php%20website.png)
 
 >>>>>>> development
-this is a git test
-git stat
+NEW LINE TEST
