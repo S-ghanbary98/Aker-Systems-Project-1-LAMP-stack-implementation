@@ -1,4 +1,4 @@
-# Aker-Systems-Project-1-LAMP-stack-implementation
+# LAMP-stack-implementation
 
 ## Intro
 
