@@ -1,4 +1,4 @@
-# LAMP-stack-implementation
+# LAMP Stack Application
 
 ## Intro
 
